@@ -1,0 +1,2 @@
+colorscheme badwolf
+let g:pymode_lint_ignore="E501,W601,E265"
